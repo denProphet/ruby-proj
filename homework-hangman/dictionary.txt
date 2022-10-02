@@ -1,0 +1,6 @@
+coffee
+animal
+green
+salmon
+activity
+shortcut
